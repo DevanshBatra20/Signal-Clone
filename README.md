@@ -17,5 +17,24 @@ Signal Clone with REACT NATIVE! (Navigation, Firebase, React Native Elements, & 
    <img align="center" alt="React"  width="180" src="https://github.com/DevanshBatra20/Signal-Clone/assets/72523104/127d391b-3ace-4381-8253-cf9f61e95cef">
   </div>
   <br />
+  
+  <details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://#/">Javascript</a></li>
+    <li><a href="https://docs.expo.dev/workflow/expo-cli">Expo</a></li>
+    <li><a href="https://reactnative.dev">React Native</a></li>
+     <li><a href="https://reactnavigation.org/">React Navigation</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
+  </ul>
+</details>
+
+<br />
 
   
