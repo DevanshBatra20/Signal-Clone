@@ -10,6 +10,8 @@ Signal Clone with REACT NATIVE! (Navigation, Firebase, React Native Elements, & 
   
    ## :star2: About the Project
   
+  ### :camera: Screenshots!
+  
   <div style="display: inline_block" align="center">
   <img align="center" alt="React"  width="180" src="https://github.com/DevanshBatra20/Signal-Clone/assets/72523104/0569c87f-06c5-4e99-9b3f-99b84a7e0d10">
   <img align="center" alt="React"  width="180" src="https://github.com/DevanshBatra20/Signal-Clone/assets/72523104/ac98d1ef-e6c5-43b3-b8fe-1097a41e3275">
