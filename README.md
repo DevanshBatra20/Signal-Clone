@@ -18,6 +18,8 @@ Signal Clone with REACT NATIVE! (Navigation, Firebase, React Native Elements, & 
   </div>
   <br />
   
+   ### :space_invader: Tech Stack
+  
   <details>
   <summary>Client</summary>
   <ul>
